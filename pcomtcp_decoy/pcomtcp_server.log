@@ -1,0 +1,87 @@
+2024-06-03 08:32:05,760 - INFO - Accepted connection from ('192.168.100.3', 56298)
+2024-06-03 08:33:54,291 - INFO - Accepted connection from ('192.168.100.3', 57470)
+2024-06-03 08:33:54,792 - INFO - Accepted connection from ('192.168.100.3', 57478)
+2024-06-03 08:33:55,293 - INFO - Accepted connection from ('192.168.100.3', 57484)
+2024-06-03 08:33:55,794 - INFO - Accepted connection from ('192.168.100.3', 57492)
+2024-06-03 08:33:56,295 - INFO - Accepted connection from ('192.168.100.3', 57504)
+2024-06-03 08:33:56,796 - INFO - Accepted connection from ('192.168.100.3', 57514)
+2024-06-03 08:33:57,298 - INFO - Accepted connection from ('192.168.100.3', 57516)
+2024-06-03 08:33:57,799 - INFO - Accepted connection from ('192.168.100.3', 57522)
+2024-06-03 08:33:58,300 - INFO - Accepted connection from ('192.168.100.3', 57538)
+2024-06-03 08:33:58,801 - INFO - Accepted connection from ('192.168.100.3', 57550)
+2024-06-03 08:33:59,302 - INFO - Accepted connection from ('192.168.100.3', 57558)
+2024-06-03 08:35:48,757 - INFO - Accepted connection from ('192.168.100.3', 55720)
+2024-06-03 08:35:49,258 - INFO - Accepted connection from ('192.168.100.3', 55730)
+2024-06-03 08:35:49,759 - INFO - Accepted connection from ('192.168.100.3', 55736)
+2024-06-03 08:35:50,260 - INFO - Accepted connection from ('192.168.100.3', 55742)
+2024-06-03 08:35:50,761 - INFO - Accepted connection from ('192.168.100.3', 55748)
+2024-06-03 08:35:51,262 - INFO - Accepted connection from ('192.168.100.3', 55754)
+2024-06-03 08:35:51,763 - INFO - Accepted connection from ('192.168.100.3', 55768)
+2024-06-03 08:35:52,264 - INFO - Accepted connection from ('192.168.100.3', 55770)
+2024-06-03 08:35:52,765 - INFO - Accepted connection from ('192.168.100.3', 40840)
+2024-06-03 08:35:53,267 - INFO - Accepted connection from ('192.168.100.3', 40848)
+2024-06-03 08:35:53,768 - INFO - Accepted connection from ('192.168.100.3', 40852)
+2024-06-03 08:35:54,269 - INFO - Accepted connection from ('192.168.100.3', 40862)
+2024-06-03 08:37:18,407 - INFO - Accepted connection from ('192.168.100.3', 38748)
+2024-06-03 08:37:18,407 - INFO - Request recieved from ('192.168.100.3', 38748) : b'23e\x00\x08\x00/00RCF5\r'
+2024-06-03 08:37:18,407 - INFO - Response send to ('192.168.100.3', 38748) : b'23e\x00\x1d\x00/A00RC51541506110119BD\r'
+2024-06-03 08:37:18,908 - INFO - Accepted connection from ('192.168.100.3', 38756)
+2024-06-03 08:37:18,908 - INFO - Request recieved from ('192.168.100.3', 38756) : b'23e\x00\x08\x00/00RCF5\r'
+2024-06-03 08:37:18,909 - INFO - Response send to ('192.168.100.3', 38756) : b'23e\x00\x1d\x00/A00RC51541506110119BD\r'
+2024-06-03 08:37:19,409 - INFO - Accepted connection from ('192.168.100.3', 38770)
+2024-06-03 08:37:19,409 - INFO - Request recieved from ('192.168.100.3', 38770) : b'23e\x00\x08\x00/00RCF5\r'
+2024-06-03 08:37:19,410 - INFO - Response send to ('192.168.100.3', 38770) : b'23e\x00\x1d\x00/A00RC51541506110119BD\r'
+2024-06-03 08:37:19,911 - INFO - Accepted connection from ('192.168.100.3', 38774)
+2024-06-03 08:37:19,911 - INFO - Request recieved from ('192.168.100.3', 38774) : b'23e\x00\x08\x00/00RCF5\r'
+2024-06-03 08:37:19,911 - INFO - Response send to ('192.168.100.3', 38774) : b'23e\x00\x1d\x00/A00RC51541506110119BD\r'
+2024-06-03 08:37:20,412 - INFO - Accepted connection from ('192.168.100.3', 38776)
+2024-06-03 08:37:20,412 - INFO - Request recieved from ('192.168.100.3', 38776) : b'23e\x00\x08\x00/00RCF5\r'
+2024-06-03 08:37:20,412 - INFO - Response send to ('192.168.100.3', 38776) : b'23e\x00\x1d\x00/A00RC51541506110119BD\r'
+2024-06-03 08:37:20,913 - INFO - Accepted connection from ('192.168.100.3', 38784)
+2024-06-03 08:37:20,913 - INFO - Request recieved from ('192.168.100.3', 38784) : b'23e\x00\x08\x00/00RCF5\r'
+2024-06-03 08:37:20,913 - INFO - Response send to ('192.168.100.3', 38784) : b'23e\x00\x1d\x00/A00RC51541506110119BD\r'
+2024-06-03 08:37:21,414 - INFO - Accepted connection from ('192.168.100.3', 38800)
+2024-06-03 08:37:21,414 - INFO - Request recieved from ('192.168.100.3', 38800) : b'23e\x00\x08\x00/00RCF5\r'
+2024-06-03 08:37:21,414 - INFO - Response send to ('192.168.100.3', 38800) : b'23e\x00\x1d\x00/A00RC51541506110119BD\r'
+2024-06-03 08:37:21,915 - INFO - Accepted connection from ('192.168.100.3', 38810)
+2024-06-03 08:37:21,915 - INFO - Request recieved from ('192.168.100.3', 38810) : b'23e\x00\x08\x00/00RCF5\r'
+2024-06-03 08:37:21,915 - INFO - Response send to ('192.168.100.3', 38810) : b'23e\x00\x1d\x00/A00RC51541506110119BD\r'
+2024-06-03 08:37:22,416 - INFO - Accepted connection from ('192.168.100.3', 38820)
+2024-06-03 08:37:22,416 - INFO - Request recieved from ('192.168.100.3', 38820) : b'23e\x00\x08\x00/00RCF5\r'
+2024-06-03 08:37:22,416 - INFO - Response send to ('192.168.100.3', 38820) : b'23e\x00\x1d\x00/A00RC51541506110119BD\r'
+2024-06-03 08:37:22,917 - INFO - Accepted connection from ('192.168.100.3', 41428)
+2024-06-03 08:37:22,918 - INFO - Request recieved from ('192.168.100.3', 41428) : b'23e\x00\x08\x00/00RCF5\r'
+2024-06-03 08:37:22,918 - INFO - Response send to ('192.168.100.3', 41428) : b'23e\x00\x1d\x00/A00RC51541506110119BD\r'
+2024-06-03 08:37:23,419 - INFO - Accepted connection from ('192.168.100.3', 41430)
+2024-06-03 08:37:23,419 - INFO - Request recieved from ('192.168.100.3', 41430) : b'23e\x00\x08\x00/00RCF5\r'
+2024-06-03 08:37:23,419 - INFO - Response send to ('192.168.100.3', 41430) : b'23e\x00\x1d\x00/A00RC51541506110119BD\r'
+2024-06-03 08:37:23,920 - INFO - Accepted connection from ('192.168.100.3', 41436)
+2024-06-03 08:37:23,920 - INFO - Request recieved from ('192.168.100.3', 41436) : b'23e\x00\x08\x00/00RCF5\r'
+2024-06-03 08:37:23,920 - INFO - Response send to ('192.168.100.3', 41436) : b'23e\x00\x1d\x00/A00RC51541506110119BD\r'
+2024-06-03 08:37:24,421 - INFO - Accepted connection from ('192.168.100.3', 41438)
+2024-06-03 08:37:24,421 - INFO - Request recieved from ('192.168.100.3', 41438) : b'23e\x00\x08\x00/00RCF5\r'
+2024-06-03 08:37:24,421 - INFO - Response send to ('192.168.100.3', 41438) : b'23e\x00\x1d\x00/A00RC51541506110119BD\r'
+2024-06-03 08:37:24,922 - INFO - Accepted connection from ('192.168.100.3', 41454)
+2024-06-03 08:37:24,923 - INFO - Request recieved from ('192.168.100.3', 41454) : b'23e\x00\x08\x00/00RCF5\r'
+2024-06-03 08:37:24,923 - INFO - Response send to ('192.168.100.3', 41454) : b'23e\x00\x1d\x00/A00RC51541506110119BD\r'
+2024-06-03 08:37:25,424 - INFO - Accepted connection from ('192.168.100.3', 41466)
+2024-06-03 08:37:25,424 - INFO - Request recieved from ('192.168.100.3', 41466) : b'23e\x00\x08\x00/00RCF5\r'
+2024-06-03 08:37:25,424 - INFO - Response send to ('192.168.100.3', 41466) : b'23e\x00\x1d\x00/A00RC51541506110119BD\r'
+2024-06-03 08:37:25,925 - INFO - Accepted connection from ('192.168.100.3', 41478)
+2024-06-03 08:37:25,925 - INFO - Request recieved from ('192.168.100.3', 41478) : b'23e\x00\x08\x00/00RCF5\r'
+2024-06-03 08:37:25,925 - INFO - Response send to ('192.168.100.3', 41478) : b'23e\x00\x1d\x00/A00RC51541506110119BD\r'
+2024-06-03 08:37:26,426 - INFO - Accepted connection from ('192.168.100.3', 41490)
+2024-06-03 08:37:26,426 - INFO - Request recieved from ('192.168.100.3', 41490) : b'23e\x00\x08\x00/00RCF5\r'
+2024-06-03 08:37:26,426 - INFO - Response send to ('192.168.100.3', 41490) : b'23e\x00\x1d\x00/A00RC51541506110119BD\r'
+2024-06-03 08:37:26,927 - INFO - Accepted connection from ('192.168.100.3', 41494)
+2024-06-03 08:37:26,927 - INFO - Request recieved from ('192.168.100.3', 41494) : b'23e\x00\x08\x00/00RCF5\r'
+2024-06-03 08:37:26,927 - INFO - Response send to ('192.168.100.3', 41494) : b'23e\x00\x1d\x00/A00RC51541506110119BD\r'
+2024-06-03 08:37:27,428 - INFO - Accepted connection from ('192.168.100.3', 41504)
+2024-06-03 08:37:27,429 - INFO - Request recieved from ('192.168.100.3', 41504) : b'23e\x00\x08\x00/00RCF5\r'
+2024-06-03 08:37:27,429 - INFO - Response send to ('192.168.100.3', 41504) : b'23e\x00\x1d\x00/A00RC51541506110119BD\r'
+2024-06-03 08:37:27,930 - INFO - Accepted connection from ('192.168.100.3', 41514)
+2024-06-03 08:37:27,930 - INFO - Request recieved from ('192.168.100.3', 41514) : b'23e\x00\x08\x00/00RCF5\r'
+2024-06-03 08:37:27,930 - INFO - Response send to ('192.168.100.3', 41514) : b'23e\x00\x1d\x00/A00RC51541506110119BD\r'
+2024-06-03 08:37:28,431 - INFO - Accepted connection from ('192.168.100.3', 41530)
+2024-06-03 08:37:28,431 - INFO - Request recieved from ('192.168.100.3', 41530) : b'23e\x00\x08\x00/00RCF5\r'
+2024-06-03 08:37:28,431 - INFO - Response send to ('192.168.100.3', 41530) : b'23e\x00\x1d\x00/A00RC51541506110119BD\r'

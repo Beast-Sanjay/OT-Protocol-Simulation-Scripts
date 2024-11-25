@@ -1,0 +1,222 @@
+2024-05-23 09:58:46,396 - INFO - Accepted connection from ('192.168.100.3', 36552)
+2024-05-23 09:58:46,396 - INFO - Request recieved from ('192.168.100.3', 36552) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-05-23 09:58:46,397 - INFO - Response send to ('192.168.100.3', 36552) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-05-23 09:58:46,898 - INFO - Accepted connection from ('192.168.100.3', 36568)
+2024-05-23 09:58:46,898 - INFO - Request recieved from ('192.168.100.3', 36568) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-05-23 09:58:46,898 - INFO - Response send to ('192.168.100.3', 36568) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-05-23 09:58:47,399 - INFO - Accepted connection from ('192.168.100.3', 36572)
+2024-05-23 09:58:47,399 - INFO - Request recieved from ('192.168.100.3', 36572) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-05-23 09:58:47,399 - INFO - Response send to ('192.168.100.3', 36572) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-05-23 09:58:47,900 - INFO - Accepted connection from ('192.168.100.3', 36580)
+2024-05-23 09:58:47,901 - INFO - Request recieved from ('192.168.100.3', 36580) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-05-23 09:58:47,901 - INFO - Response send to ('192.168.100.3', 36580) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-05-23 09:58:48,402 - INFO - Accepted connection from ('192.168.100.3', 36590)
+2024-05-23 09:58:48,402 - INFO - Request recieved from ('192.168.100.3', 36590) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-05-23 09:58:48,402 - INFO - Response send to ('192.168.100.3', 36590) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-05-23 09:58:48,903 - INFO - Accepted connection from ('192.168.100.3', 36592)
+2024-05-23 09:58:48,903 - INFO - Request recieved from ('192.168.100.3', 36592) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-05-23 09:58:48,903 - INFO - Response send to ('192.168.100.3', 36592) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-05-23 09:58:49,404 - INFO - Accepted connection from ('192.168.100.3', 36606)
+2024-05-23 09:58:49,404 - INFO - Request recieved from ('192.168.100.3', 36606) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-05-23 09:58:49,404 - INFO - Response send to ('192.168.100.3', 36606) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-05-23 09:58:49,905 - INFO - Accepted connection from ('192.168.100.3', 36612)
+2024-05-23 09:58:49,906 - INFO - Request recieved from ('192.168.100.3', 36612) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-05-23 09:58:49,906 - INFO - Response send to ('192.168.100.3', 36612) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-05-23 09:58:50,407 - INFO - Accepted connection from ('192.168.100.3', 36616)
+2024-05-23 09:58:50,407 - INFO - Request recieved from ('192.168.100.3', 36616) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-05-23 09:58:50,407 - INFO - Response send to ('192.168.100.3', 36616) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-05-23 09:58:50,908 - INFO - Accepted connection from ('192.168.100.3', 36628)
+2024-05-23 09:58:50,908 - INFO - Request recieved from ('192.168.100.3', 36628) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-05-23 09:58:50,908 - INFO - Response send to ('192.168.100.3', 36628) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-05-23 09:58:51,409 - INFO - Accepted connection from ('192.168.100.3', 36634)
+2024-05-23 09:58:51,409 - INFO - Request recieved from ('192.168.100.3', 36634) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-05-23 09:58:51,410 - INFO - Response send to ('192.168.100.3', 36634) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-05-23 09:58:51,911 - INFO - Accepted connection from ('192.168.100.3', 36648)
+2024-05-23 09:58:51,911 - INFO - Request recieved from ('192.168.100.3', 36648) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-05-23 09:58:51,911 - INFO - Response send to ('192.168.100.3', 36648) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-05-23 09:58:52,412 - INFO - Accepted connection from ('192.168.100.3', 36656)
+2024-05-23 09:58:52,412 - INFO - Request recieved from ('192.168.100.3', 36656) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-05-23 09:58:52,412 - INFO - Response send to ('192.168.100.3', 36656) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-05-23 09:58:52,913 - INFO - Accepted connection from ('192.168.100.3', 38838)
+2024-05-23 09:58:52,914 - INFO - Request recieved from ('192.168.100.3', 38838) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-05-23 09:58:52,914 - INFO - Response send to ('192.168.100.3', 38838) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-05-23 09:58:53,415 - INFO - Accepted connection from ('192.168.100.3', 38846)
+2024-05-23 09:58:53,415 - INFO - Request recieved from ('192.168.100.3', 38846) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-05-23 09:58:53,415 - INFO - Response send to ('192.168.100.3', 38846) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-05-23 09:58:53,916 - INFO - Accepted connection from ('192.168.100.3', 38862)
+2024-05-23 09:58:53,916 - INFO - Request recieved from ('192.168.100.3', 38862) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-05-23 09:58:53,916 - INFO - Response send to ('192.168.100.3', 38862) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-05-23 09:58:54,417 - INFO - Accepted connection from ('192.168.100.3', 38870)
+2024-05-23 09:58:54,417 - INFO - Request recieved from ('192.168.100.3', 38870) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-05-23 09:58:54,417 - INFO - Response send to ('192.168.100.3', 38870) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-05-23 09:58:54,918 - INFO - Accepted connection from ('192.168.100.3', 38880)
+2024-05-23 09:58:54,919 - INFO - Request recieved from ('192.168.100.3', 38880) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-05-23 09:58:54,919 - INFO - Response send to ('192.168.100.3', 38880) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-05-23 09:58:55,420 - INFO - Accepted connection from ('192.168.100.3', 38882)
+2024-05-23 09:58:55,420 - INFO - Request recieved from ('192.168.100.3', 38882) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-05-23 09:58:55,420 - INFO - Response send to ('192.168.100.3', 38882) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-05-23 09:58:55,921 - INFO - Accepted connection from ('192.168.100.3', 38888)
+2024-05-23 09:58:55,921 - INFO - Request recieved from ('192.168.100.3', 38888) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-05-23 09:58:55,921 - INFO - Response send to ('192.168.100.3', 38888) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-05-23 09:58:56,422 - INFO - Accepted connection from ('192.168.100.3', 38900)
+2024-05-23 09:58:56,422 - INFO - Request recieved from ('192.168.100.3', 38900) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-05-23 09:58:56,422 - INFO - Response send to ('192.168.100.3', 38900) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-05-23 09:58:56,923 - INFO - Accepted connection from ('192.168.100.3', 38904)
+2024-05-23 09:58:56,923 - INFO - Request recieved from ('192.168.100.3', 38904) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-05-23 09:58:56,923 - INFO - Response send to ('192.168.100.3', 38904) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-05-23 09:58:57,424 - INFO - Accepted connection from ('192.168.100.3', 38920)
+2024-05-23 09:58:57,424 - INFO - Request recieved from ('192.168.100.3', 38920) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-05-23 09:58:57,424 - INFO - Response send to ('192.168.100.3', 38920) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-05-23 09:58:57,925 - INFO - Accepted connection from ('192.168.100.3', 38936)
+2024-05-23 09:58:57,925 - INFO - Request recieved from ('192.168.100.3', 38936) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-05-23 09:58:57,926 - INFO - Response send to ('192.168.100.3', 38936) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-05-23 09:58:58,426 - INFO - Accepted connection from ('192.168.100.3', 38938)
+2024-05-23 09:58:58,427 - INFO - Request recieved from ('192.168.100.3', 38938) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-05-23 09:58:58,427 - INFO - Response send to ('192.168.100.3', 38938) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-05-23 09:58:58,928 - INFO - Accepted connection from ('192.168.100.3', 38942)
+2024-05-23 09:58:58,928 - INFO - Request recieved from ('192.168.100.3', 38942) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-05-23 09:58:58,928 - INFO - Response send to ('192.168.100.3', 38942) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-05-23 09:58:59,429 - INFO - Accepted connection from ('192.168.100.3', 38946)
+2024-05-23 09:58:59,429 - INFO - Request recieved from ('192.168.100.3', 38946) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-05-23 09:58:59,429 - INFO - Response send to ('192.168.100.3', 38946) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-05-23 09:58:59,930 - INFO - Accepted connection from ('192.168.100.3', 38956)
+2024-05-23 09:58:59,930 - INFO - Request recieved from ('192.168.100.3', 38956) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-05-23 09:58:59,930 - INFO - Response send to ('192.168.100.3', 38956) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-05-23 09:59:00,431 - INFO - Accepted connection from ('192.168.100.3', 38960)
+2024-05-23 09:59:00,431 - INFO - Request recieved from ('192.168.100.3', 38960) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-05-23 09:59:00,431 - INFO - Response send to ('192.168.100.3', 38960) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-05-23 09:59:00,932 - INFO - Accepted connection from ('192.168.100.3', 38974)
+2024-05-23 09:59:00,933 - INFO - Request recieved from ('192.168.100.3', 38974) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-05-23 09:59:00,933 - INFO - Response send to ('192.168.100.3', 38974) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-05-23 09:59:01,434 - INFO - Accepted connection from ('192.168.100.3', 38984)
+2024-05-23 09:59:01,434 - INFO - Request recieved from ('192.168.100.3', 38984) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-05-23 09:59:01,434 - INFO - Response send to ('192.168.100.3', 38984) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-05-23 09:59:01,935 - INFO - Accepted connection from ('192.168.100.3', 38994)
+2024-05-23 09:59:01,935 - INFO - Request recieved from ('192.168.100.3', 38994) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-05-23 09:59:01,935 - INFO - Response send to ('192.168.100.3', 38994) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-05-23 10:02:01,721 - INFO - Accepted connection from ('192.168.100.3', 58782)
+2024-05-23 10:02:01,721 - INFO - Request recieved from ('192.168.100.3', 58782) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-05-23 10:02:01,721 - INFO - Response send to ('192.168.100.3', 58782) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-05-23 10:02:02,222 - INFO - Accepted connection from ('192.168.100.3', 58792)
+2024-05-23 10:02:02,223 - INFO - Request recieved from ('192.168.100.3', 58792) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-05-23 10:02:02,223 - INFO - Response send to ('192.168.100.3', 58792) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-05-23 10:02:02,724 - INFO - Accepted connection from ('192.168.100.3', 52932)
+2024-05-23 10:02:02,724 - INFO - Request recieved from ('192.168.100.3', 52932) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-05-23 10:02:02,724 - INFO - Response send to ('192.168.100.3', 52932) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-05-23 10:02:03,225 - INFO - Accepted connection from ('192.168.100.3', 52948)
+2024-05-23 10:02:03,225 - INFO - Request recieved from ('192.168.100.3', 52948) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-05-23 10:02:03,226 - INFO - Response send to ('192.168.100.3', 52948) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-05-23 10:02:03,727 - INFO - Accepted connection from ('192.168.100.3', 52962)
+2024-05-23 10:02:03,727 - INFO - Request recieved from ('192.168.100.3', 52962) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-05-23 10:02:03,727 - INFO - Response send to ('192.168.100.3', 52962) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-05-23 10:02:04,228 - INFO - Accepted connection from ('192.168.100.3', 52978)
+2024-05-23 10:02:04,228 - INFO - Request recieved from ('192.168.100.3', 52978) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-05-23 10:02:04,228 - INFO - Response send to ('192.168.100.3', 52978) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-05-23 10:02:04,729 - INFO - Accepted connection from ('192.168.100.3', 52988)
+2024-05-23 10:02:04,729 - INFO - Request recieved from ('192.168.100.3', 52988) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-05-23 10:02:04,730 - INFO - Response send to ('192.168.100.3', 52988) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-05-23 10:02:05,230 - INFO - Accepted connection from ('192.168.100.3', 52990)
+2024-05-23 10:02:05,231 - INFO - Request recieved from ('192.168.100.3', 52990) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-05-23 10:02:05,231 - INFO - Response send to ('192.168.100.3', 52990) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-05-23 10:02:05,732 - INFO - Accepted connection from ('192.168.100.3', 53000)
+2024-05-23 10:02:05,732 - INFO - Request recieved from ('192.168.100.3', 53000) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-05-23 10:02:05,732 - INFO - Response send to ('192.168.100.3', 53000) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-05-23 10:02:06,233 - INFO - Accepted connection from ('192.168.100.3', 53006)
+2024-05-23 10:02:06,233 - INFO - Request recieved from ('192.168.100.3', 53006) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-05-23 10:02:06,233 - INFO - Response send to ('192.168.100.3', 53006) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-05-23 10:02:06,734 - INFO - Accepted connection from ('192.168.100.3', 53010)
+2024-05-23 10:02:06,735 - INFO - Request recieved from ('192.168.100.3', 53010) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-05-23 10:02:06,735 - INFO - Response send to ('192.168.100.3', 53010) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-05-23 10:02:07,236 - INFO - Accepted connection from ('192.168.100.3', 53016)
+2024-05-23 10:02:07,236 - INFO - Request recieved from ('192.168.100.3', 53016) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-05-23 10:02:07,236 - INFO - Response send to ('192.168.100.3', 53016) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-05-23 10:02:07,737 - INFO - Accepted connection from ('192.168.100.3', 53018)
+2024-05-23 10:02:07,737 - INFO - Request recieved from ('192.168.100.3', 53018) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-05-23 10:02:07,737 - INFO - Response send to ('192.168.100.3', 53018) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-05-23 10:02:08,238 - INFO - Accepted connection from ('192.168.100.3', 53024)
+2024-05-23 10:02:08,239 - INFO - Request recieved from ('192.168.100.3', 53024) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-05-23 10:02:08,239 - INFO - Response send to ('192.168.100.3', 53024) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-05-23 10:02:08,740 - INFO - Accepted connection from ('192.168.100.3', 53038)
+2024-05-23 10:02:08,740 - INFO - Request recieved from ('192.168.100.3', 53038) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-05-23 10:02:08,740 - INFO - Response send to ('192.168.100.3', 53038) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-05-29 10:43:49,266 - INFO - Accepted connection from ('192.168.100.3', 45352)
+2024-05-29 10:43:49,274 - INFO - Request recieved from ('192.168.100.3', 45352) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-05-29 10:43:49,275 - INFO - Response send to ('192.168.100.3', 45352) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-05-29 10:43:49,776 - INFO - Accepted connection from ('192.168.100.3', 45364)
+2024-05-29 10:43:49,776 - INFO - Request recieved from ('192.168.100.3', 45364) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-05-29 10:43:49,776 - INFO - Response send to ('192.168.100.3', 45364) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-05-29 10:43:50,277 - INFO - Accepted connection from ('192.168.100.3', 45370)
+2024-05-29 10:43:50,277 - INFO - Request recieved from ('192.168.100.3', 45370) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-05-29 10:43:50,277 - INFO - Response send to ('192.168.100.3', 45370) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-05-29 10:43:50,778 - INFO - Accepted connection from ('192.168.100.3', 45380)
+2024-05-29 10:43:50,778 - INFO - Request recieved from ('192.168.100.3', 45380) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-05-29 10:43:50,779 - INFO - Response send to ('192.168.100.3', 45380) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-05-29 10:43:51,280 - INFO - Accepted connection from ('192.168.100.3', 45392)
+2024-05-29 10:43:51,280 - INFO - Request recieved from ('192.168.100.3', 45392) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-05-29 10:43:51,280 - INFO - Response send to ('192.168.100.3', 45392) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-05-29 10:43:51,781 - INFO - Accepted connection from ('192.168.100.3', 45402)
+2024-05-29 10:43:51,781 - INFO - Request recieved from ('192.168.100.3', 45402) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-05-29 10:43:51,781 - INFO - Response send to ('192.168.100.3', 45402) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-05-29 10:43:52,282 - INFO - Accepted connection from ('192.168.100.3', 45408)
+2024-05-29 10:43:52,282 - INFO - Request recieved from ('192.168.100.3', 45408) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-05-29 10:43:52,283 - INFO - Response send to ('192.168.100.3', 45408) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-05-29 10:43:52,783 - INFO - Accepted connection from ('192.168.100.3', 59234)
+2024-05-29 10:43:52,784 - INFO - Request recieved from ('192.168.100.3', 59234) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-05-29 10:43:52,784 - INFO - Response send to ('192.168.100.3', 59234) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-05-29 10:43:53,285 - INFO - Accepted connection from ('192.168.100.3', 59236)
+2024-05-29 10:43:53,285 - INFO - Request recieved from ('192.168.100.3', 59236) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-05-29 10:43:53,285 - INFO - Response send to ('192.168.100.3', 59236) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-05-29 10:43:53,786 - INFO - Accepted connection from ('192.168.100.3', 59250)
+2024-05-29 10:43:53,786 - INFO - Request recieved from ('192.168.100.3', 59250) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-05-29 10:43:53,786 - INFO - Response send to ('192.168.100.3', 59250) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-05-29 10:43:54,287 - INFO - Accepted connection from ('192.168.100.3', 59266)
+2024-05-29 10:43:54,288 - INFO - Request recieved from ('192.168.100.3', 59266) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-05-29 10:43:54,288 - INFO - Response send to ('192.168.100.3', 59266) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-05-29 10:43:54,789 - INFO - Accepted connection from ('192.168.100.3', 59276)
+2024-05-29 10:43:54,789 - INFO - Request recieved from ('192.168.100.3', 59276) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-05-29 10:43:54,789 - INFO - Response send to ('192.168.100.3', 59276) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-05-29 10:43:55,290 - INFO - Accepted connection from ('192.168.100.3', 59290)
+2024-05-29 10:43:55,290 - INFO - Request recieved from ('192.168.100.3', 59290) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-05-29 10:43:55,290 - INFO - Response send to ('192.168.100.3', 59290) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-05-29 10:43:55,791 - INFO - Accepted connection from ('192.168.100.3', 59298)
+2024-05-29 10:43:55,792 - INFO - Request recieved from ('192.168.100.3', 59298) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-05-29 10:43:55,792 - INFO - Response send to ('192.168.100.3', 59298) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-05-29 10:43:56,293 - INFO - Accepted connection from ('192.168.100.3', 59304)
+2024-05-29 10:43:56,293 - INFO - Request recieved from ('192.168.100.3', 59304) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-05-29 10:43:56,293 - INFO - Response send to ('192.168.100.3', 59304) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-05-29 10:43:56,794 - INFO - Accepted connection from ('192.168.100.3', 59316)
+2024-05-29 10:43:56,794 - INFO - Request recieved from ('192.168.100.3', 59316) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-05-29 10:43:56,795 - INFO - Response send to ('192.168.100.3', 59316) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-05-29 10:43:57,296 - INFO - Accepted connection from ('192.168.100.3', 59322)
+2024-05-29 10:43:57,296 - INFO - Request recieved from ('192.168.100.3', 59322) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-05-29 10:43:57,296 - INFO - Response send to ('192.168.100.3', 59322) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-05-29 10:43:57,797 - INFO - Accepted connection from ('192.168.100.3', 59338)
+2024-05-29 10:43:57,797 - INFO - Request recieved from ('192.168.100.3', 59338) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-05-29 10:43:57,797 - INFO - Response send to ('192.168.100.3', 59338) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-06-03 06:04:21,585 - INFO - Accepted connection from ('192.168.100.3', 51132)
+2024-06-03 06:04:21,592 - INFO - Request recieved from ('192.168.100.3', 51132) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-06-03 06:04:21,593 - INFO - Response send to ('192.168.100.3', 51132) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-06-03 06:04:22,094 - INFO - Accepted connection from ('192.168.100.3', 51136)
+2024-06-03 06:04:22,094 - INFO - Request recieved from ('192.168.100.3', 51136) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-06-03 06:04:22,094 - INFO - Response send to ('192.168.100.3', 51136) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-06-03 06:04:22,595 - INFO - Accepted connection from ('192.168.100.3', 51152)
+2024-06-03 06:04:22,595 - INFO - Request recieved from ('192.168.100.3', 51152) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-06-03 06:04:22,595 - INFO - Response send to ('192.168.100.3', 51152) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-06-03 06:04:23,096 - INFO - Accepted connection from ('192.168.100.3', 40126)
+2024-06-03 06:04:23,096 - INFO - Request recieved from ('192.168.100.3', 40126) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-06-03 06:04:23,096 - INFO - Response send to ('192.168.100.3', 40126) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-06-03 06:04:23,597 - INFO - Accepted connection from ('192.168.100.3', 40136)
+2024-06-03 06:04:23,598 - INFO - Request recieved from ('192.168.100.3', 40136) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-06-03 06:04:23,598 - INFO - Response send to ('192.168.100.3', 40136) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-06-03 06:04:24,099 - INFO - Accepted connection from ('192.168.100.3', 40142)
+2024-06-03 06:04:24,099 - INFO - Request recieved from ('192.168.100.3', 40142) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-06-03 06:04:24,099 - INFO - Response send to ('192.168.100.3', 40142) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-06-03 06:04:24,600 - INFO - Accepted connection from ('192.168.100.3', 40158)
+2024-06-03 06:04:24,600 - INFO - Request recieved from ('192.168.100.3', 40158) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-06-03 06:04:24,600 - INFO - Response send to ('192.168.100.3', 40158) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-06-03 06:04:25,101 - INFO - Accepted connection from ('192.168.100.3', 40174)
+2024-06-03 06:04:25,101 - INFO - Request recieved from ('192.168.100.3', 40174) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-06-03 06:04:25,101 - INFO - Response send to ('192.168.100.3', 40174) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
+2024-06-03 06:04:25,602 - INFO - Accepted connection from ('192.168.100.3', 40184)
+2024-06-03 06:04:25,602 - INFO - Request recieved from ('192.168.100.3', 40184) : b'\x00\x02\x00\x00\x00\x06\x00\x03\x00c\x00\x01'
+2024-06-03 06:04:25,603 - INFO - Response send to ('192.168.100.3', 40184) : b'\x00\x02\x00\x00\x00\x05\x00\x03\x02\x00a'
